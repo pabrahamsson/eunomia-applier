@@ -1,3 +1,5 @@
+[![Docker Repository on Quay](https://quay.io/repository/pabrahamsson/eunomia-applier/status "Docker Repository on Quay")](https://quay.io/repository/pabrahamsson/eunomia-applier)
+
 # OpenShift Applier Template Processor
 
 This image allows for the use of [OpenShift Applier](https://github.com/redhat-cop/openshift-applier.git) with Eunomia.
